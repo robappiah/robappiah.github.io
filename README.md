@@ -1,11 +1,11 @@
 # Data Analyst | Power BI Developer | Trainer
 
 ### Education & Certification
-·University of Ghana
-Bsc Business Administration and Management
+-University of Ghana:
+-Bsc Business Administration and Management
 
-·Microsoft
-Certified Power BI Data Analyst Associate
+-Microsoft
+-Certified Power BI Data Analyst Associate
 
 
 ### Work Experience
