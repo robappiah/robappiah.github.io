@@ -2,10 +2,10 @@
 ## Power BI Developer & Trainer
 
 ### Education & Certification
-#### · University of Ghana:
+####  University of Ghana:
 Bsc Business Administration and Management
 
-#### · Microsoft :
+####  Microsoft :
 - Certified Power Platform Developer
 - Certified Power BI Data Analyst Associate
 
