@@ -3,7 +3,7 @@
 
 ### Education & Certification
 ####  University of Ghana:
-Bsc Business Administration and Management
+- Bsc Business Administration and Management
 
 ####  Microsoft :
 - Certified Power Platform Developer
