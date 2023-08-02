@@ -1,7 +1,12 @@
-# Data Analyst
+# Data Analyst | Power BI Developer | Trainer
 
-### Education
-Physics, PhD
+### Education & Certification
+·University of Ghana
+Bsc Business Administration and Management
+
+·Microsoft
+Certified Power BI Data Analyst Associate
+
 
 ### Work Experience
 Power BI Developer @ RiceTec
